@@ -23,13 +23,10 @@ I build cohesive brand identities by combining strategy, design, and consistency
 
 A glimpse of some of the projects I have worked on.
 
-**Branding.**
+**BRANDING**
 
 ![image](New Davina drinks Rollup 2.jpg)
 
-Using Pivot Tables and explicit functions, I built KPIs such as Total sales by quantity, Total revenue, Average order value and Growth rate.
-
-[Read More](https://www.linkedin.com/posts/ogungbe-ebunoluwa_ebunonamission-exceldashboard-dataanalytics-activity-7407004224506507266-LMtQ/)
 
 *Analysis of a six-month coffee sales transaction dataset.*
 
