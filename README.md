@@ -29,7 +29,7 @@ A glimpse of some of the projects I have worked on.
 
 **PHOTOGRAPHY**
 
-![image](coffee sales.jpg)
+![image](coffee sales.jpg) ![image](black n white.jpg)
 
 I explored sales performance by product category and type, tracked revenue across different store locations, and analyzed how transaction volume changed by day and month.
 
