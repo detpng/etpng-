@@ -31,10 +31,9 @@ A glimpse of some of the projects I have worked on.
 
 ![image](Osaz ETPNG O1.jpg) ![image](black n white.jpg)  ![image](CAUTION COLORED 1-1.jpg)  ![image](IMG_4972.jpg)
 
-I explored sales performance by product category and type, tracked revenue across different store locations, and analyzed how transaction volume changed by day and month.
-
-[Read More](https://www.linkedin.com/posts/ogungbe-ebunoluwa_ebunonamission-dataanalytics-learningjourney-activity-7407728933212794880-loaU/)
-
+**GRAPHICS DESIGN**
+![image]
+ 
 ## CONTACT DETAILS
 
 📧 ebunoluwaogungbe@gmail.com
