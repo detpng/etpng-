@@ -23,9 +23,9 @@ I build cohesive brand identities by combining strategy, design, and consistency
 
 A glimpse of some of the projects I have worked on.
 
-*Predictive Analysis of Car Sales Growth Rate for an Automobile Company.*
+**Branding.**
 
-![image](car sales.jpg)
+![image](New Davina drinks Rollup 2.jpg)
 
 Using Pivot Tables and explicit functions, I built KPIs such as Total sales by quantity, Total revenue, Average order value and Growth rate.
 
