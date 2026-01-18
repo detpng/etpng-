@@ -27,7 +27,7 @@ A glimpse of some of the projects I have worked on.
 
 ![image](New Davina drinks Rollup 2.jpg) ![image](WhatsApp Image 2026-01-18 at 3.13.59 PM.jpeg) ![image](WhatsApp Image 2026-01-18 at 3.17.38 PM.jpeg) ![image](WhatsApp Image 2026-01-18 at 3.20.28 PM.jpeg)
 
-*Analysis of a six-month coffee sales transaction dataset.*
+**PHOTOGRAPHY**
 
 ![image](coffee sales.jpg)
 
