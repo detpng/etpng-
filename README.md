@@ -29,7 +29,7 @@ A glimpse of some of the projects I have worked on.
 
 **PHOTOGRAPHY**
 
-![image](Osaz ETPNG O1.jpg) ![image](black n white.jpg)
+![image](Osaz ETPNG O1.jpg) ![image](black n white.jpg)  ![image](CAUTION COLORED 1-1.jpg)
 
 I explored sales performance by product category and type, tracked revenue across different store locations, and analyzed how transaction volume changed by day and month.
 
