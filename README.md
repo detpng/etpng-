@@ -32,7 +32,7 @@ A glimpse of some of the projects I have worked on.
 ![image](Osaz ETPNG O1.jpg) ![image](black n white.jpg)  ![image](CAUTION COLORED 1-1.jpg)  ![image](IMG_4972.jpg)
 
 **GRAPHICS DESIGN**
-![image](Dolas Closet logo for mi.jpg)
+![image](Dolas Closet logo for mi.jpg) ![image](wigsbytiti Obleeee 2.jpg)
  
 ## CONTACT DETAILS
 
