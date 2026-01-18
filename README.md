@@ -36,10 +36,10 @@ A glimpse of some of the projects I have worked on.
  
 ## CONTACT DETAILS
 
-📧 ebunoluwaogungbe@gmail.com
+📧 etpngbrand@gmail.com
 
 📍 Lagos, Nigeria
 
-📃 <a href="Ebunoluwa CV.pdf"> Download my CV here (PDF file)</a>
+📃 <a href="https://www.instagram.com/detpng/">See more insightful posts on my instagram </a>
 
 🌐 <a href="https://www.linkedin.com/in/ogungbe-ebunoluwa/"> Check out my insightful LinkedIn posts</a>
