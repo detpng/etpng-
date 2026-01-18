@@ -42,4 +42,4 @@ A glimpse of some of the projects I have worked on.
 
 📃 <a href="https://www.instagram.com/detpng/">See more insightful posts on my instagram </a>
 
-🌐 <a href="https://www.linkedin.com/in/ogungbe-ebunoluwa/"> Check out my insightful LinkedIn posts</a>
+🌐 <a href="https://www.linkedin.com/in/oluwatosin-owolabi-6a36a2316/"> Check out my insightful LinkedIn posts</a>
